@@ -12,5 +12,11 @@
         {"type": "test", "section":"✅ Tests | 测试"},
         {"type": "build", "section":"👷‍ Build System | 构建"},
         {"type": "ci", "section":"🔧 Continuous Integration | CI 配置"}
-    ]
+    ],
+    "skip": {
+        "bump": false,
+        "changelog": false,
+        "commit": false,
+        "tag": false
+    }
 }
