@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prerelease": "standard-version --release-as patch --dry-run",
+    "release": "standard-version --release-as patch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "git-cz": "^4.8.0"
+    "git-cz": "^4.8.0",
+    "standard-version": "^9.3.2"
   },
   "config": {
     "commitizen": {
