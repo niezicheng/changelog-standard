@@ -1,6 +1,18 @@
 # 更新历史 
 
 
+### [1.0.2](https://github.com/niezicheng/changelog-standard/compare/v1.0.1...v1.0.2) (2021-11-22)
+
+
+### 📦 Chores | 其他更新
+
+* 🤖 添加 publish 发布 script 快捷命令 ([132ec5a](https://github.com/niezicheng/changelog-standard/commit/132ec5a13656ee935aea5c2fe2eec087532d06ef))
+
+
+### ✨ Features | 新功能
+
+* 🎸 添加 commitlint 配置 ([a30ee5a](https://github.com/niezicheng/changelog-standard/commit/a30ee5ae7a7858ed2a2614ae60382c4dde4ac831))
+
 ### 1.0.1 (2021-11-19)
 
 
