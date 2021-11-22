@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
     "git-cz": "^4.8.0",
+    "husky": "^7.0.4",
     "standard-version": "^9.3.2"
   },
   "config": {
