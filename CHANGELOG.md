@@ -1,6 +1,13 @@
 # 更新历史 
 
 
+### [1.0.4](https://github.com/niezicheng/changelog-standard/compare/v1.0.3...v1.0.4) (2021-11-22)
+
+
+### ♻ Code Refactoring | 代码重构
+
+* 💡 增加 tag-push 快捷命令及更新 README ([dcc19e9](https://github.com/niezicheng/changelog-standard/commit/dcc19e93bc3579375f66c1dd4b705ec9a723dfa6))
+
 ### [1.0.3](https://github.com/niezicheng/changelog-standard/compare/v1.0.2...v1.0.3) (2021-11-22)
 
 
