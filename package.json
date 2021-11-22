@@ -6,7 +6,8 @@
   "scripts": {
     "prerelease": "standard-version --release-as patch --dry-run",
     "release": "standard-version --release-as patch",
-    "release-publish": "git push --follow-tags origin master && npm publish"
+    "tag-push": "git push --follow-tags origin master",
+    "release-publish": "npm run tag-push && npm publish"
   },
   "keywords": [],
   "author": "",

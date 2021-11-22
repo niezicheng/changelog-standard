@@ -4,6 +4,8 @@
 npm i
 ```
 
+## 命令使用
+
 ### 预览
 
 ```zsh
@@ -14,6 +16,12 @@ npm run prerelease
 
 ```zsh
 npm run release
+```
+
+### 推送
+
+```zsh
+npm run tag-push
 ```
 
 ### 发版
