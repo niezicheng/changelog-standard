@@ -6,8 +6,6 @@
   "scripts": {
     "release:dry": "standard-version --release-as patch --dry-run",
     "release": "standard-version --release-as patch",
-    "prerelease:dry": "standard-version --prerelease alpha --dry-run",
-    "prerelease": "standard-version --prerelease alpha",
     "major-alpha:dry": "standard-version --release-as major --prerelease alpha --dry-run",
     "major-alpha": "standard-version --release-as major --prerelease alpha",
     "tag-push": "git push --follow-tags origin master",

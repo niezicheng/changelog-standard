@@ -18,18 +18,6 @@ npm run release:dry
 npm run release
 ```
 
-### 预览预发布(alpha)
-
-```zsh
-npm run prerelease:dry
-```
-
-### 预发布(alpha)
-
-```zsh
-npm run prerelease
-```
-
 ### 预览大版本预发布(major-alpha)
 
 ```zsh
