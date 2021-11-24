@@ -6,16 +6,40 @@ npm i
 
 ## 命令使用
 
-### 预览
+### 预览发布(patch)
+
+```zsh
+npm run release:dry
+```
+
+### 发布(patch)
+
+```zsh
+npm run release
+```
+
+### 预览预发布(alpha)
+
+```zsh
+npm run prerelease:dry
+```
+
+### 预发布(alpha)
 
 ```zsh
 npm run prerelease
 ```
 
-### 执行
+### 预览大版本预发布(major-alpha)
 
 ```zsh
-npm run release
+npm run major-alpha:dry
+```
+
+### 大版本预发布(major-alpha)
+
+```zsh
+npm run major-alpha
 ```
 
 ### 推送
