@@ -1,6 +1,13 @@
 # 更新日志 
 
 
+### [1.0.6](https://github.com/niezicheng/changelog-standard/compare/v1.0.5...v1.0.6) (2021-11-24)
+
+
+### 📦 Chores | 其他更新
+
+* 🤖 增添预发布和大版本预发布 script 命令 ([48354a4](https://github.com/niezicheng/changelog-standard/commit/48354a46fd0664e3eedcc448e1563b0093fb5909))
+
 ### [1.0.5](https://github.com/niezicheng/changelog-standard/compare/v1.0.4...v1.0.5) (2021-11-24)
 
 
