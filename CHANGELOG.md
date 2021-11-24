@@ -1,6 +1,13 @@
 # 更新日志 
 
 
+### [1.0.7](https://github.com/niezicheng/changelog-standard/compare/v1.0.6...v1.0.7) (2021-11-24)
+
+
+### 📦 Chores | 其他更新
+
+* 🤖 删除预发布(预览) script 命令 ([6e2c739](https://github.com/niezicheng/changelog-standard/commit/6e2c739ac66363f5a9a10f29fe8e451679c81cb7))
+
 ### [1.0.6](https://github.com/niezicheng/changelog-standard/compare/v1.0.5...v1.0.6) (2021-11-24)
 
 
